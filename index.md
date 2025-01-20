@@ -15,3 +15,6 @@ int main(void) {
   return 0;
 }
 ```
+- [ ] Brush my teeth
+- [ ] Buy an amiibo
+- [ ] Go to bed
